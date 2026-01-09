@@ -2,7 +2,7 @@
 
 Test code for testing https://huggingface.co/Panoramax/classify_nl_road_signs
 
-Intsructions on Ubuntu:
+Instructions on Ubuntu:
 
 1] Clone repository
 
