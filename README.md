@@ -1,6 +1,8 @@
 # classify_nl_road_signs
 
-Test code for testing https://huggingface.co/Panoramax/classify_nl_road_signs
+Code for testing https://huggingface.co/Panoramax/classify_nl_road_signs
+
+Blog see https://bertt.wordpress.com/2026/01/09/classifying-dutch-road-signs-with-ai/
 
 Instructions on Ubuntu:
 
